@@ -70,7 +70,7 @@ To access the endpoints you'll be using the following base url: `https://ltw-cms
 
 
 ## Must haves:
-- You should use either React.js for this task
+- You should be using React.js for this task
 - We rely heavily on state management for our frontend apps, so please do use state management for your task too.
 - Deploy the project and make it available in some public URL ( you can use heroku, netlify, aws etc whichever you are comfortable with )
 - A clear README on how to locally set up your submission repo.
