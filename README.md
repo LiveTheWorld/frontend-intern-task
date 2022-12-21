@@ -4,7 +4,7 @@ This task is designed towards delivering a detail landing page for our activitie
 
 Considering the nature of the role you'll be required to give your own inputs on the UX, so figuring out the UX for this task is upto you.
 
-### You can use either `React.js` for this task's implementation. 
+### You should be using `React.js` for this task's implementation. 
 
 Remember you can contact me at ali@livetheworld.com incase you've any questions. You will not be penalized at all for asking questions.
 
